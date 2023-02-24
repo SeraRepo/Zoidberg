@@ -1,0 +1,12 @@
+matplotlib
+numpy
+tensorflow
+opencv-python
+pandas
+scikit-learn
+plotly
+nbformat
+h5py
+tqdm
+opencv-python
+sklearn-genetic-opt
